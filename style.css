@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  column-gap: 2rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: rgb(228, 38, 143);
+  font-family: sans-serif;
+}
